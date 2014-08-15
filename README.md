@@ -1,4 +1,4 @@
 JS-Simplifier
 =============
 
-Simplifies JS Code
+Simplifies JS Code [Just Started]
